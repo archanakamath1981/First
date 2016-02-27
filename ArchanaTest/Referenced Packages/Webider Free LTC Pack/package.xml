@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Webider Free LTC Pack</fullName>
+    <apiAccessLevel>Unrestricted</apiAccessLevel>
+    <description>This is Free Lightning Component By Webider, include tasks and event component with great UI and functionality</description>
+    <namespacePrefix>webider_ltcfree</namespacePrefix>
+    <types>
+        <members>TestEventscontroller</members>
+        <members>TestTasksController</members>
+        <members>eventsController</members>
+        <members>tasksController</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>webiderResources</members>
+        <name>StaticResource</name>
+    </types>
+    <version>31.0</version>
+</Package>
